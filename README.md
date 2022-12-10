@@ -1,1 +1,1 @@
-# Codechef-Problems-With-Solutions
+# Codechef-Problems-Solutions
